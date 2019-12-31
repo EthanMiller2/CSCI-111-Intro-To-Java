@@ -1,0 +1,29 @@
+
+/**
+ * Write a description of class Driver here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Driver
+{
+     public static void main(String[] args)
+    {
+        GroceryItem item1 = new GroceryItem("Milk", 2.99, 4);
+        GroceryItem item2 = new GroceryItem("Cookies", 4.85, 2);
+        GroceryItem item3 = new GroceryItem("Pasta", 1.50, 1);
+        
+        System.out.println(item1.getName() + " costs $" + item1.getCost() + " and can be found in aisle " + item1.getAisleNum());
+        System.out.println(item2.getName() + " costs $" + item2.getCost() + " and can be found in aisle " + item2.getAisleNum());
+        System.out.println(item3.getName() + " costs $" + item3.getCost() + " and can be found in aisle " + item3.getAisleNum());
+   
+        System.out.println("\nChanging Costs... \n");
+        item1.changeCost(3.25);
+        item2.changeCost(4.25);
+        item3.changeCost(1.75);
+        
+        System.out.println(item1.getName() + " now costs $" + item1.getCost());
+        System.out.println(item2.getName() + " now costs $" + item2.getCost());
+        System.out.println(item3.getName() + " now costs $" + item3.getCost());
+    }
+}

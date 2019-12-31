@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=s1\ s2\ s3\ s4
+comment0.target=Fleet(Ship,\ Ship,\ Ship,\ Ship)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Fleet\n
+comment1.params=
+comment1.target=void\ deploy()
+comment2.params=
+comment2.target=void\ reFuel()
+comment3.params=
+comment3.target=void\ printSummary()
+numComments=4

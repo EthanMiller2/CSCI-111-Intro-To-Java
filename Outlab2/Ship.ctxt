@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=inName\ inFuel
+comment0.target=Ship(java.lang.String,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Ship\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getFuelNum()
+comment3.params=
+comment3.target=double\ getFuelOnBoard()
+comment4.params=
+comment4.target=double\ getFuelConsumed()
+comment5.params=
+comment5.target=void\ deployShip()
+comment6.params=
+comment6.target=void\ refuelShip()
+numComments=7

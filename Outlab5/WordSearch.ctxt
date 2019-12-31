@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=WordSearch(char[][])
+comment1.params=
+comment1.target=void\ play()
+comment2.params=
+comment2.target=void\ search()
+comment3.params=startRow\ startCol
+comment3.target=boolean\ checkHorizontal(int,\ int)
+comment4.params=startRow\ startCol
+comment4.target=boolean\ checkVertical(int,\ int)
+comment5.params=startRow\ startCol
+comment5.target=boolean\ checkDiagonal(int,\ int)
+comment6.params=a\ b\ c
+comment6.target=boolean\ checkFound(boolean,\ boolean,\ boolean)
+numComments=7
