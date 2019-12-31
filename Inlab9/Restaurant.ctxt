@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Restaurant()
+comment1.params=name
+comment1.target=Restaurant(java.lang.String)
+comment2.params=name\ num
+comment2.target=Restaurant(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getEmployees()
+comment5.params=inName
+comment5.target=void\ setName(java.lang.String)
+comment6.params=first\ second
+comment6.target=Restaurant\ method(Restaurant,\ Restaurant)
+numComments=7

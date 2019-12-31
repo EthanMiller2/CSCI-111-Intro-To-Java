@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dog()
+comment1.params=inBreed
+comment1.target=Dog(java.lang.String)
+comment2.params=inBreed\ a
+comment2.target=Dog(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getBreed()
+comment4.params=input
+comment4.target=void\ setBreed(java.lang.String)
+comment5.params=a\ b\ c
+comment5.target=Dog\ methodB(Dog,\ Dog,\ Dog)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=ArrayLab(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ArrayLab\n
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=void\ printStats()
+comment4.params=x
+comment4.target=void\ search(int)
+numComments=5

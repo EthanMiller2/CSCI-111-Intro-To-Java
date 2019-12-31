@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Garage(Car)
+comment1.params=
+comment1.target=Car\ getCar()
+comment2.params=
+comment2.target=java.lang.String\ getMake()
+comment3.params=x
+comment3.target=void\ setCar(Car)
+comment4.params=x
+comment4.target=void\ changeMake(java.lang.String)
+numComments=5
