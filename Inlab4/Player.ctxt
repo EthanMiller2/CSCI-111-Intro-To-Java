@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=inName
+comment0.target=Player(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Player\n
+comment1.params=inAtBats
+comment1.target=void\ addAtBats(int)
+comment2.params=inHits
+comment2.target=void\ addHits(int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getAtBats()
+comment5.params=
+comment5.target=int\ getHits()
+comment6.params=
+comment6.target=int\ getPlayerNum()
+comment7.params=
+comment7.target=double\ calcBatAvg()
+numComments=8
